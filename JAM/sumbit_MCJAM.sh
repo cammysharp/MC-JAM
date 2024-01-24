@@ -9,7 +9,7 @@
 
 ml python-scientific/3.10.4-foss-2022a
 
-source /fred/oz059/cammy/JAM/bin/activate
+source /fred/oz059/cammy/MC-JAM/bin/activate
 python MC_JAM_singlethread.py
 deactivate
 
